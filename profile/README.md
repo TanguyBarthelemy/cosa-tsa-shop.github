@@ -1,6 +1,6 @@
 # Welcome to the cosa-tsa-shop.
 
-<img src="profile/Eurostat_Co-Founded.png" align="right" height="150" style="float:right; height:150px;"/></a>
+<img src="Eurostat_Co-Founded.png" align="right" height="150" style="float:right; height:150px;"/></a>
 
 
 
